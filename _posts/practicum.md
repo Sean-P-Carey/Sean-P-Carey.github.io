@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /practicum/
-title: "Data Science Graduate Practicum"
+permalink: /posts/
+title: "Posts"
 author_profile: true
 header:
   image: "/images/background.jpg"
