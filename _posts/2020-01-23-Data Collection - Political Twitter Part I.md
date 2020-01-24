@@ -7,7 +7,7 @@ header:
 excerpt: "Collecting Tweets from American Politicians using Tweepy and Python"
 ---
 
-## Data Collection  - Political Twitter Part I
+## Data Collection
 
 The use of Social Media as a platform in American politics has been growing in popularity since the 2008 election cycle. Twitter has become the platform of choice for most members of both the Legislative and the Executive Branches. The goal of this project will be to step through an  analyze the vocabulary used by each political party. This blog series will have four parts:  
 

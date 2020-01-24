@@ -7,7 +7,7 @@ header:
 excerpt: "Perform basic NLP Text Preprocessing using REGEX, NLTK and, spaCy"
 ---
 
-## Data Cleaning - Political Twitter Part II
+## Data Cleaning
 
 
 This post will take the data that was created in [Part 1](https://sean-p-carey.github.io/data_collection/) and perform normal text data preprocessing.  
