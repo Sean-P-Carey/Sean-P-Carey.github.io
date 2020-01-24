@@ -1,5 +1,5 @@
 ---
-Title: "Data Collection - Political Twitter Part I"
+Title: "Political Twitter Part 1"
 date: 2020-01-23
 tags: [twitter, api, tweepy, practicum]
 header:
